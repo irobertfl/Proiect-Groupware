@@ -1,0 +1,286 @@
+0000.001 (0) Opened log file at time: Wed, 16 Jan 2019 07:47:15 +0000 on http://localhost
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.0 WP: 5.0.3 PHP: 7.3.0 (apache2handler, Windows NT DESKTOP-1DHRR4A 10.0 build 17763 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.3.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 29.6M | 4M) multisite: N openssl: OpenSSL 1.1.0j  20 Nov 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 25458.3 MB
+0000.023 (0) Tasks: Backup files: 1 (schedule: every4hours) Backup DB: 1 (schedule: every4hours)
+0000.032 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.037 (0) Set semaphore last lock (fd) time to 2019-01-16 07:47:15
+0000.039 (0) Semaphore lock (fd) complete
+0000.046 (0) Backup run: resumption=0, nonce=fced6a5c25d6, file_nonce=fced6a5c25d6 begun at=1547624835 (0s ago), job type=backup
+0000.050 (0) Scheduling a resumption (1) after 300 seconds (1547625135) in case this run gets aborted
+0000.063 (0) Checking if we have a zip executable available
+0000.068 (0) Creation of backups of directories: beginning
+0000.078 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.579 (0) Total entities for the zip file: 309 directories, 1904 files (0 skipped as non-modified), 40 MB
+0001.647 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.723 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.790 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.861 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.930 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.933 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.8 MB, 1904 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0004.219 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 600 files added (on-disk size: 5709.1 KB)
+0004.287 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 700 files added (on-disk size: 5709.1 KB)
+0004.356 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 800 files added (on-disk size: 5709.1 KB)
+0004.421 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 900 files added (on-disk size: 5709.1 KB)
+0004.491 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1000 files added (on-disk size: 5709.1 KB)
+0004.495 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 1904 files batched, 501 (1002) added so far); re-opening (prior size: 5709.1 KB)
+0004.962 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1100 files added (on-disk size: 6416.7 KB)
+0005.041 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1200 files added (on-disk size: 6416.7 KB)
+0005.106 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1300 files added (on-disk size: 6416.7 KB)
+0005.171 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1400 files added (on-disk size: 6416.7 KB)
+0005.238 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1500 files added (on-disk size: 6416.7 KB)
+0005.243 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 1904 files batched, 501 (1503) added so far); re-opening (prior size: 6416.7 KB)
+0006.089 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1600 files added (on-disk size: 8713.4 KB)
+0006.153 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1700 files added (on-disk size: 8713.4 KB)
+0006.216 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1800 files added (on-disk size: 8713.4 KB)
+0006.281 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip.tmp: 1900 files added (on-disk size: 8713.4 KB)
+0008.402 (0) Created plugins zip (0) - 13368 KB in 8.3 s (1608.7 KB/s) (sha1: 5e407f188c876329a69b3fb17ceb4e01db7f9609, sha256: 89a1f1ad9535be6f9ab9ad7e14007b90055dd335782f7fd4a743a074c0d3430b)
+0008.416 (0) Beginning creation of dump of themes (split every: 400 MB)
+0009.726 (0) Total entities for the zip file: 360 directories, 1604 files (0 skipped as non-modified), 37.4 MB
+0009.792 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0009.855 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.925 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0009.989 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0010.055 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0010.058 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.6 MB, 1604 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0011.964 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 600 files added (on-disk size: 9771.2 KB)
+0012.039 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 700 files added (on-disk size: 9771.2 KB)
+0012.115 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 800 files added (on-disk size: 9771.2 KB)
+0012.182 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 900 files added (on-disk size: 9771.2 KB)
+0012.248 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 1000 files added (on-disk size: 9771.2 KB)
+0012.252 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.3 MB, 1604 files batched, 501 (1002) added so far); re-opening (prior size: 9771.2 KB)
+0013.190 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 1100 files added (on-disk size: 12582.1 KB)
+0013.257 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 1200 files added (on-disk size: 12582.1 KB)
+0013.320 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 1300 files added (on-disk size: 12582.1 KB)
+0013.384 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 1400 files added (on-disk size: 12582.1 KB)
+0013.448 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 1500 files added (on-disk size: 12582.1 KB)
+0013.452 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.2 MB, 1604 files batched, 501 (1503) added so far); re-opening (prior size: 12582.1 KB)
+0014.323 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip.tmp: 1600 files added (on-disk size: 17669.6 KB)
+0015.295 (0) Created themes zip (0) - 19665.7 KB in 6.9 s (2864.2 KB/s) (sha1: e3ba904bde31d9129c98ed5d479a92cf6c62d8b9, sha256: 74e06764951ef29a5e981c3628426a1f031bdb89d45759a91829db81c8adacf2)
+0015.310 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0015.312 (0) Looking for candidates to backup in: C:\Workspace/wp-content/uploads
+0015.314 (0) finding files: 2019: adding to list (1)
+0015.316 (0) finding files: redux: adding to list (2)
+0015.318 (0) finding files: wpforo: adding to list (3)
+0015.320 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0015.419 (0) Total entities for the zip file: 15 directories, 119 files (0 skipped as non-modified), 1.8 MB
+0015.482 (0) Zip: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.592 (0) Created uploads zip (0) - 1862.3 KB in 0.3 s (7163.1 KB/s) (sha1: feed45d96aaf1a1e9c857c2ef841c5d53d35bca6, sha256: 239dfcab8947a2fbe40dfaccb791ca7b5059cdda781d95d53f65b8548b0518ea)
+0015.607 (0) Beginning backup of other directories found in the content directory (index: 0)
+0015.609 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0015.610 (0) Looking for candidates to backup in: C:\Workspace/wp-content
+0015.613 (0) finding files: index.php: adding to list (1)
+0015.615 (0) finding files: plugins: skipping: this is the plugins directory
+0015.616 (0) finding files: themes: skipping: this is the themes directory
+0015.618 (0) finding files: updraft: skipping: this is the updraft directory
+0015.620 (0) finding files: upgrade: skipping: excluded by options
+0015.622 (0) finding files: uploads: skipping: this is the uploads directory
+0015.639 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0015.654 (0) Created others zip (0) - 0.1 KB in 0 s (7.3 KB/s) (sha1: 7fa20cb3a9d6a214c1f20732edb1342fa25491bd, sha256: f30924f625c9bfb0cb3164908ae5c9fce698e2921532c96599eb074b7405cf10)
+0015.672 (0) Saving backup status to database (elements: 8)
+0015.678 (0) Beginning creation of database dump (WordPress DB)
+0015.701 (0) Table wp_options: Total expected rows (approximate): 245
+0015.726 (0) Table wp_options: Total rows added: 241 in 0.02 seconds
+0015.734 (0) Table wp_options: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_options.table.gz - 26.8 KB)
+0015.746 (0) Table wp_users: Total expected rows (approximate): 4
+0015.758 (0) Table wp_users: Total rows added: 4 in 0.01 seconds
+0015.761 (0) Table wp_users: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_users.table.gz - 0.8 KB)
+0015.773 (0) Table wp_usermeta: Total expected rows (approximate): 74
+0015.782 (0) Table wp_usermeta: Total rows added: 78 in 0.01 seconds
+0015.789 (0) Table wp_usermeta: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_usermeta.table.gz - 3.1 KB)
+0015.804 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0015.815 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0015.821 (0) Table wp_commentmeta: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0015.834 (0) Table wp_comments: Total expected rows (approximate): 0
+0015.848 (0) Table wp_comments: Total rows added: 1 in 0.01 seconds
+0015.854 (0) Table wp_comments: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_comments.table.gz - 0.7 KB)
+0015.866 (0) Table wp_links: Total expected rows (approximate): 0
+0015.878 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0015.882 (0) Table wp_links: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_links.table.gz - 0.4 KB)
+0015.894 (0) Table wp_postmeta: Total expected rows (approximate): 157
+0015.906 (0) Table wp_postmeta: Total rows added: 165 in 0.01 seconds
+0015.913 (0) Table wp_postmeta: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_postmeta.table.gz - 3.1 KB)
+0015.924 (0) Table wp_posts: Total expected rows (approximate): 61
+0015.941 (0) Table wp_posts: Total rows added: 61 in 0.01 seconds
+0015.948 (0) Table wp_posts: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_posts.table.gz - 8.1 KB)
+0015.959 (0) Table wp_term_relationships: Total expected rows (approximate): 12
+0015.971 (0) Table wp_term_relationships: Total rows added: 12 in 0.01 seconds
+0015.974 (0) Table wp_term_relationships: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0015.985 (0) Table wp_term_taxonomy: Total expected rows (approximate): 0
+0015.998 (0) Table wp_term_taxonomy: Total rows added: 2 in 0.01 seconds
+0016.005 (0) Table wp_term_taxonomy: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0016.018 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0016.026 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0016.029 (0) Table wp_termmeta: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_termmeta.table.gz - 0.4 KB)
+0016.040 (0) Table wp_terms: Total expected rows (approximate): 0
+0016.048 (0) Table wp_terms: Total rows added: 2 in 0.01 seconds
+0016.052 (0) Table wp_terms: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_terms.table.gz - 0.4 KB)
+0016.062 (0) Table wp_wpforo_accesses: Total expected rows (approximate): 5
+0016.070 (0) Table wp_wpforo_accesses: Total rows added: 5 in 0.01 seconds
+0016.073 (0) Table wp_wpforo_accesses: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_accesses.table.gz - 0.7 KB)
+0016.083 (0) Table wp_wpforo_activity: Total expected rows (approximate): 0
+0016.095 (0) Table wp_wpforo_activity: Total rows added: 0 in 0.01 seconds
+0016.098 (0) Table wp_wpforo_activity: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_activity.table.gz - 0.4 KB)
+0016.108 (0) Table wp_wpforo_forums: Total expected rows (approximate): 24
+0016.120 (0) Table wp_wpforo_forums: Total rows added: 24 in 0.01 seconds
+0016.124 (0) Table wp_wpforo_forums: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_forums.table.gz - 1.1 KB)
+0016.134 (0) Table wp_wpforo_languages: Total expected rows (approximate): 1
+0016.145 (0) Table wp_wpforo_languages: Total rows added: 1 in 0.01 seconds
+0016.148 (0) Table wp_wpforo_languages: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_languages.table.gz - 0.4 KB)
+0016.159 (0) Table wp_wpforo_likes: Total expected rows (approximate): 0
+0016.173 (0) Table wp_wpforo_likes: Total rows added: 0 in 0.01 seconds
+0016.176 (0) Table wp_wpforo_likes: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_likes.table.gz - 0.3 KB)
+0016.187 (0) Table wp_wpforo_phrases: Total expected rows (approximate): 554
+0016.204 (0) Table wp_wpforo_phrases: Total rows added: 554 in 0.02 seconds
+0016.224 (0) Table wp_wpforo_phrases: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_phrases.table.gz - 8.5 KB)
+0016.235 (0) Table wp_wpforo_posts: Total expected rows (approximate): 4
+0016.247 (0) Table wp_wpforo_posts: Total rows added: 4 in 0.01 seconds
+0016.250 (0) Table wp_wpforo_posts: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_posts.table.gz - 1.2 KB)
+0016.261 (0) Table wp_wpforo_profiles: Total expected rows (approximate): 4
+0016.274 (0) Table wp_wpforo_profiles: Total rows added: 4 in 0.01 seconds
+0016.280 (0) Table wp_wpforo_profiles: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_profiles.table.gz - 0.8 KB)
+0016.291 (0) Table wp_wpforo_subscribes: Total expected rows (approximate): 0
+0016.304 (0) Table wp_wpforo_subscribes: Total rows added: 0 in 0.01 seconds
+0016.310 (0) Table wp_wpforo_subscribes: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_subscribes.table.gz - 0.4 KB)
+0016.322 (0) Table wp_wpforo_tags: Total expected rows (approximate): 0
+0016.331 (0) Table wp_wpforo_tags: Total rows added: 1 in 0.01 seconds
+0016.337 (0) Table wp_wpforo_tags: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_tags.table.gz - 0.4 KB)
+0016.348 (0) Table wp_wpforo_topics: Total expected rows (approximate): 1
+0016.360 (0) Table wp_wpforo_topics: Total rows added: 1 in 0.01 seconds
+0016.367 (0) Table wp_wpforo_topics: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_topics.table.gz - 0.8 KB)
+0016.379 (0) Table wp_wpforo_usergroups: Total expected rows (approximate): 5
+0016.391 (0) Table wp_wpforo_usergroups: Total rows added: 5 in 0.01 seconds
+0016.397 (0) Table wp_wpforo_usergroups: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_usergroups.table.gz - 0.9 KB)
+0016.408 (0) Table wp_wpforo_views: Total expected rows (approximate): 0
+0016.417 (0) Table wp_wpforo_views: Total rows added: 0 in 0.01 seconds
+0016.423 (0) Table wp_wpforo_views: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_views.table.gz - 0.3 KB)
+0016.435 (0) Table wp_wpforo_visits: Total expected rows (approximate): 11
+0016.447 (0) Table wp_wpforo_visits: Total rows added: 11 in 0.01 seconds
+0016.453 (0) Table wp_wpforo_visits: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_visits.table.gz - 0.6 KB)
+0016.464 (0) Table wp_wpforo_votes: Total expected rows (approximate): 0
+0016.472 (0) Table wp_wpforo_votes: Total rows added: 0 in 0.01 seconds
+0016.475 (0) Table wp_wpforo_votes: finishing file (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_votes.table.gz - 0.3 KB)
+0016.483 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_options.table.gz (1/27): adding to final database dump
+0016.491 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_users.table.gz (2/27): adding to final database dump
+0016.494 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_usermeta.table.gz (3/27): adding to final database dump
+0016.497 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_commentmeta.table.gz (4/27): adding to final database dump
+0016.499 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_comments.table.gz (5/27): adding to final database dump
+0016.501 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_links.table.gz (6/27): adding to final database dump
+0016.503 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_postmeta.table.gz (7/27): adding to final database dump
+0016.506 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_posts.table.gz (8/27): adding to final database dump
+0016.509 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_term_relationships.table.gz (9/27): adding to final database dump
+0016.511 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_term_taxonomy.table.gz (10/27): adding to final database dump
+0016.513 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_termmeta.table.gz (11/27): adding to final database dump
+0016.515 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_terms.table.gz (12/27): adding to final database dump
+0016.517 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_accesses.table.gz (13/27): adding to final database dump
+0016.519 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_activity.table.gz (14/27): adding to final database dump
+0016.521 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_forums.table.gz (15/27): adding to final database dump
+0016.523 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_languages.table.gz (16/27): adding to final database dump
+0016.525 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_likes.table.gz (17/27): adding to final database dump
+0016.527 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_phrases.table.gz (18/27): adding to final database dump
+0016.532 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_posts.table.gz (19/27): adding to final database dump
+0016.534 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_profiles.table.gz (20/27): adding to final database dump
+0016.536 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_subscribes.table.gz (21/27): adding to final database dump
+0016.538 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_tags.table.gz (22/27): adding to final database dump
+0016.540 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_topics.table.gz (23/27): adding to final database dump
+0016.542 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_usergroups.table.gz (24/27): adding to final database dump
+0016.544 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_views.table.gz (25/27): adding to final database dump
+0016.546 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_visits.table.gz (26/27): adding to final database dump
+0016.547 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db-table-wp_wpforo_votes.table.gz (27/27): adding to final database dump
+0016.554 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db.gz: finished writing out complete database file (48 KB)
+0016.574 (0) Total database tables backed up: 27 (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db.gz, size: 56009, sha256)
+0016.582 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0016.584 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0016.586 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0016.588 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-others.zip: others: This file has not yet been successfully uploaded: will queue
+0016.589 (0) backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db.gz: db: This file has not yet been successfully uploaded: will queue
+0016.591 (0) Saving backup history. Total backup size: 34.1 MB
+0016.595 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0016.600 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0016.602 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-40bfb7e9297db7717afc9f411089c8b2)
+0016.603 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0016.616 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0017.625 (0) Dropbox: quota usage: used=12.6 MB, total=2048 MB, available=2035.4 MB
+0017.628 (0) Dropbox: Attempt to upload: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip to: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip
+0020.322 (0) Dropbox chunked upload: 7.7 % uploaded (AAAAAAAAAXradLLDltyiGw, 1048576, 3072 KB)
+0028.554 (0) Dropbox chunked upload: 30.6 % uploaded (AAAAAAAAAXradLLDltyiGw, 4194304, 3072 KB)
+0034.027 (0) Dropbox chunked upload: 53.6 % uploaded (AAAAAAAAAXradLLDltyiGw, 7340032, 4608 KB)
+0044.028 (0) Dropbox chunked upload: 88.1 % uploaded (AAAAAAAAAXradLLDltyiGw, 12058624, 4608 KB)
+0049.727 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAXradLLDltyiGw, 13688826, 4608 KB)
+0051.609 (0) Recording as successfully uploaded: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip
+0051.617 (0) Deleting local file: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip: OK
+0051.619 (0) Dropbox: File upload success (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-plugins.zip): 13367 KB in 33s (393 KB/s)
+0052.359 (0) Dropbox: quota usage: used=25.6 MB, total=2048 MB, available=2022.4 MB
+0052.364 (0) Dropbox: Attempt to upload: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip to: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip
+0063.353 (0) Dropbox chunked upload: 23.4 % uploaded (AAAAAAAAAXudDQ92k9rX8Q, 4718592, 4608 KB)
+0072.840 (0) Dropbox chunked upload: 46.9 % uploaded (AAAAAAAAAXudDQ92k9rX8Q, 9437184, 4096 KB)
+0081.957 (0) Dropbox chunked upload: 67.7 % uploaded (AAAAAAAAAXudDQ92k9rX8Q, 13631488, 3584 KB)
+0089.547 (0) Dropbox chunked upload: 85.9 % uploaded (AAAAAAAAAXudDQ92k9rX8Q, 17301504, 4096 KB)
+0094.742 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAXudDQ92k9rX8Q, 20137637, 4096 KB)
+0096.817 (0) Recording as successfully uploaded: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip
+0096.824 (0) Deleting local file: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip: OK
+0096.827 (0) Dropbox: File upload success (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-themes.zip): 19665 KB in 44s (442 KB/s)
+0097.617 (0) Dropbox: quota usage: used=44.8 MB, total=2048 MB, available=2003.2 MB
+0097.620 (0) Dropbox: Attempt to upload: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-uploads.zip to: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-uploads.zip
+0102.017 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAXxmRjXRnPBUBA, 1906961, 4096 KB)
+0103.984 (0) Recording as successfully uploaded: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-uploads.zip
+0103.991 (0) Deleting local file: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-uploads.zip: OK
+0103.993 (0) Dropbox: File upload success (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-uploads.zip): 1862 KB in 6s (292 KB/s)
+0104.679 (0) Dropbox: quota usage: used=46.6 MB, total=2048 MB, available=2001.4 MB
+0104.683 (0) Dropbox: Attempt to upload: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-others.zip to: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-others.zip
+0105.841 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAX0q_-pMN9jgGw, 144, 4096 KB)
+0108.347 (0) Recording as successfully uploaded: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-others.zip
+0108.355 (0) Deleting local file: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-others.zip: OK
+0108.357 (0) Dropbox: File upload success (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-others.zip): 0 KB in 3s (0 KB/s)
+0109.127 (0) Dropbox: quota usage: used=46.6 MB, total=2048 MB, available=2001.4 MB
+0109.130 (0) Dropbox: Attempt to upload: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db.gz to: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db.gz
+0110.527 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAX4lTMFy1fXD5A, 56009, 4096 KB)
+0112.548 (0) Recording as successfully uploaded: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db.gz
+0112.556 (0) Deleting local file: backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db.gz: OK
+0112.558 (0) Dropbox: File upload success (backup_2019-01-16-0747_UnderPC_fced6a5c25d6-db.gz): 54 KB in 3s (15 KB/s)
+0112.567 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0112.570 (0) Number of backup sets in history: 3; groups (db): 1
+0112.572 (0) Examining (for databases) backup set with group_id=0, nonce=fced6a5c25d6, datestamp=1547624835 (Jan 16 2019 07:47:15)
+0112.573 (0) This backup set is the backup set just made, so will not be deleted.
+0112.573 (0) Examining (for databases) backup set with group_id=0, nonce=813dd6c86c45, datestamp=1547624155 (Jan 16 2019 07:35:55)
+0112.573 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0112.575 (0) Examining (for databases) backup set with group_id=0, nonce=c7de72f43a01, datestamp=1547579223 (Jan 15 2019 19:07:03)
+0112.575 (0) 1547579223: db: this set includes a database (backup_2019-01-15-1907_UnderPC_c7de72f43a01-db.gz); db count is now 2
+0112.575 (0) 1547579223: db: over retain limit (2); will delete this database
+0112.575 (0) Delete file: backup_2019-01-15-1907_UnderPC_c7de72f43a01-db.gz, service=dropbox
+0112.578 (0) Deleting local copy (backup_2019-01-15-1907_UnderPC_c7de72f43a01-db.gz)
+0112.581 (0) Dropbox: request deletion: backup_2019-01-15-1907_UnderPC_c7de72f43a01-db.gz
+0113.302 (0) Dropbox: path_lookup (line: 228, file: C:\Workspace\wp-content\plugins\updraftplus\includes\Dropbox2\OAuth\Consumer\Curl.php)
+0113.309 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0113.311 (0) Number of backup sets in history: 3; groups (files): 1
+0113.313 (0) Examining (for files) backup set with nonce=fced6a5c25d6, datestamp=1547624835 (Jan 16 2019 07:47:15)
+0113.313 (0) This backup set is the backup set just made, so will not be deleted.
+0113.315 (0) This backup set is the backup set just made, so will not be deleted.
+0113.315 (0) This backup set is the backup set just made, so will not be deleted.
+0113.315 (0) This backup set is the backup set just made, so will not be deleted.
+0113.315 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0113.317 (0) Examining (for files) backup set with nonce=813dd6c86c45, datestamp=1547624155 (Jan 16 2019 07:35:55)
+0113.317 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0113.317 (0) Examining (for files) backup set with nonce=c7de72f43a01, datestamp=1547579223 (Jan 15 2019 19:07:03)
+0113.317 (0) plugins: over retain limit (2); will delete this file entity
+0113.317 (0) themes: over retain limit (2); will delete this file entity
+0113.317 (0) uploads: over retain limit (2); will delete this file entity
+0113.317 (0) others: over retain limit (2); will delete this file entity
+0113.317 (0) Delete file: backup_2019-01-15-1907_UnderPC_c7de72f43a01-plugins.zip, service=dropbox
+0113.319 (0) Deleting local copy (backup_2019-01-15-1907_UnderPC_c7de72f43a01-plugins.zip)
+0113.321 (0) Delete file: backup_2019-01-15-1907_UnderPC_c7de72f43a01-themes.zip, service=dropbox
+0113.323 (0) Deleting local copy (backup_2019-01-15-1907_UnderPC_c7de72f43a01-themes.zip)
+0113.327 (0) Delete file: backup_2019-01-15-1907_UnderPC_c7de72f43a01-uploads.zip, service=dropbox
+0113.329 (0) Deleting local copy (backup_2019-01-15-1907_UnderPC_c7de72f43a01-uploads.zip)
+0113.332 (0) Delete file: backup_2019-01-15-1907_UnderPC_c7de72f43a01-others.zip, service=dropbox
+0113.334 (0) Deleting local copy (backup_2019-01-15-1907_UnderPC_c7de72f43a01-others.zip)
+0113.337 (0) Dropbox: request deletion: backup_2019-01-15-1907_UnderPC_c7de72f43a01-plugins.zip
+0114.089 (0) Dropbox: path_lookup (line: 228, file: C:\Workspace\wp-content\plugins\updraftplus\includes\Dropbox2\OAuth\Consumer\Curl.php)
+0114.094 (0) This backup set is now empty; will remove from history
+0114.095 (0) Deleting log file (log.c7de72f43a01.txt)
+0114.098 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0114.103 (0) Resume backup (fced6a5c25d6, 0): finish run
+0114.107 (0) Decremented the semaphore (fd) by 1
+0114.111 (0) Semaphore (fd) unlocked
+0114.112 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0114.119 (0) No email will/can be sent - the user has not configured an email address.
+0114.120 (0) The backup apparently succeeded and is now complete
